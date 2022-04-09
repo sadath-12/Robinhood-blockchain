@@ -10,6 +10,9 @@
 /smart-contracts/node_modules
 /studio/node_modules
 
+.env
+
+
 # testing
 /coverage
 
